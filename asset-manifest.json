@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/projetositereact/static/css/main.03207259.css",
+    "main.js": "/projetositereact/static/js/main.b849aa96.js",
+    "static/media/capa2.png": "/projetositereact/static/media/capa2.eec566278f7541f79a32.png",
+    "static/media/buquerosa.png": "/projetositereact/static/media/buquerosa.3312f2aeafab5d942e8a.png",
+    "static/media/desconto.png": "/projetositereact/static/media/desconto.bc7d5e4277c1f015f026.png",
+    "static/media/logo.png": "/projetositereact/static/media/logo.7b28d6ce32e876dc1612.png",
+    "static/media/arranjo3.png": "/projetositereact/static/media/arranjo3.c1d9e2f8bbc5b59e10ff.png",
+    "static/media/arranjo1.png": "/projetositereact/static/media/arranjo1.9320d203b0a6d2ce225c.png",
+    "static/media/arranjo2.png": "/projetositereact/static/media/arranjo2.0f2b3e5f3a2dff0a7223.png",
+    "index.html": "/projetositereact/index.html",
+    "main.03207259.css.map": "/projetositereact/static/css/main.03207259.css.map",
+    "main.b849aa96.js.map": "/projetositereact/static/js/main.b849aa96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03207259.css",
+    "static/js/main.b849aa96.js"
+  ]
+}
